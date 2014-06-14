@@ -1,44 +1,13 @@
-multipart-form-data_django_rest_framework_rest_server
+rest_server
 ======================================
 
-About
-----------
+RESTful server for archiving data uploaded by the Field Observation Server
 
-date: 2012/11/25
 
-This is a simple django-rest-framework multipart/form-data example.
-
-Requirements
+Reference
 --------------
+Andrew Smolik, multipart-form-data_django_rest_framework_tutorial, (2012), GitHub repository, https://github.com/ansother/multipart-form-data_django_rest_framework_tutorial
 
-Setup was on ubuntu 12.04.
-
-	*Django==1.4.2
-	*Pygments==1.5
-	*argparse==1.2.1
-	*djangorestframework==2.1.6
-	*wsgiref==0.1.2
-	*requests==0.14.2a
-
-Installation and setup
----------------
-
-1. Download and cd into the multipart-form-data_django_rest_framework_rest_server:
-    
-    ``$ cd multipart-form-data_django_rest_framework_rest_server/``
-
-2. Install requirements from the r.txt file with pip:
-
-    ``$ pip install -r requirements.txt``
-    
-3. Setup database:
-    
-    ``$ python manage.py sncdb``
-    
-4. Run the Django development server:
-    
-    ``$ python manage.py runserver``
-    
 
 Uploading files
 ---------------
