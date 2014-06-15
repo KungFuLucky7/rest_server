@@ -123,6 +123,7 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'rest_framework',
     'multipart_form_data',
+    'multipart_form_images',
 )
 
 REST_FRAMEWORK = {
