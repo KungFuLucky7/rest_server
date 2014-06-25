@@ -93,6 +93,11 @@ This files provides commands to upload images to the django-rest-framework api.
 	``$YOUR_URL/api/upload_serializers_images/``
 
 
+Cloud version hosted on OpenShift
+---------------
+http://restservercloud-serveradmin.rhcloud.com/admin/
+
+
 
 	
 
