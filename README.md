@@ -1,7 +1,7 @@
 rest_server
 ======================================
 
-RESTful server for archiving data uploaded by the Field Observation Server
+RESTful External Archive Server for archiving data uploaded by the Field Observation Server
 
 
 Reference
